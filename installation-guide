@@ -1,0 +1,6 @@
+# Easy guide to install spicetify on Linux
+
+## Step 1 ➜ Install spicetify
+Copy this comands in the terminal:
+    curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+    curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
